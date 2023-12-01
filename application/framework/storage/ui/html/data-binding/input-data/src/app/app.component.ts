@@ -11,6 +11,6 @@ import { ChildComponent } from './child/child.component';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'sharing-data-parent-to-child';
+  
   currentItem = 'Television';
 }
